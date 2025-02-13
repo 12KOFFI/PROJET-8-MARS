@@ -1,16 +1,19 @@
-/* Styles généraux */
+/* DEBUT CODE CSS PLAIDOYER */
+
+
+
 *{
     max-width: 100%;
     box-sizing: border-box;
 }
 
-body {
+.corps {
     font-family: Arial, sans-serif;
    font-size: larger;
    background: linear-gradient(135deg, #ffffff 0%, #e0d6f5 50%, #8a2be2 100%);
 }
 
-html , body {
+html , .corps {
     overflow-x: hidden;
 }
 
@@ -269,5 +272,8 @@ width: 80%;
 }
 
 
+
+
+/* FIN DU CODE CSS PLAIDOYER */
 
 

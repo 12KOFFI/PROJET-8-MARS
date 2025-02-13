@@ -1,3 +1,9 @@
+/* DEBUT JS PLAIDOYER*/
+
+
+
+
+
 document.addEventListener("DOMContentLoaded", function () {
     const circles = document.querySelectorAll(".progress-circle");
 
@@ -26,5 +32,10 @@ document.addEventListener("DOMContentLoaded", function () {
     window.addEventListener("scroll", checkVisibility);
     checkVisibility(); // Vérifier la visibilité au chargement
 
-
 });
+
+
+
+
+
+/*FIN  JS PLAIDOYER*/
